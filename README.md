@@ -1,4 +1,4 @@
-# Tareas
+# Todo
 
 _Aplicacion basica para llevar tus tareas_
 
