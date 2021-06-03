@@ -4,7 +4,7 @@ _Basic application to manage your tasks_
 
 ## Get Started 🚀
 
-n this project we can execute the following scripts:
+In this project we can execute the following scripts:
 
 ### `npm start`
 
@@ -13,7 +13,7 @@ Abrir [http://localhost:3000](http://localhost:3000) to see in the browser.
 
 ### `npm run build`
 
-Build the production application this can be seen in the carpera build.<br />
+Build the production application this can be seen in the folder build.<br />
 
 ## Built with 🛠️
 
