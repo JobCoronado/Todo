@@ -1,33 +1,31 @@
 # Todo
 
-_Aplicacion basica para llevar tus tareas_
+_Basic application to manage your tasks_
 
-## Comenzando 🚀
+## Get Started 🚀
 
-En este proyecto podemos ejecutar los siguientes scripts:
+n this project we can execute the following scripts:
 
 ### `npm start`
 
-Corre la aplicacion en modo de desarrollo.<br />
-Abrir [http://localhost:3000](http://localhost:3000) para ver en el navegador.
+Run the application in development mode.<br />
+Abrir [http://localhost:3000](http://localhost:3000) to see in the browser.
 
 ### `npm run build`
 
-Construye la aplicacion para produccion esta la podemos ver en la carpera build.<br />
+Build the production application this can be seen in the carpera build.<br />
 
-## Construido con 🛠️
+## Built with 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [React.js](https://reactjs.org/) - Libreria web.
-* [NPM](https://www.npmjs.com/) - Manejador de dependencias
-    * [React router](https://reactrouter.com/web/guides/quick-start) - Rutas.
-    * [Fontawesome](https://www.npmjs.com/package/font-awesome) Iconos
+* [React.js](https://reactjs.org/) - Web library.
+* [NPM](https://www.npmjs.com/) - Dependency manager
+    * [React router](https://reactrouter.com/web/guides/quick-start) -Routes.
+    * [Fontawesome](https://www.npmjs.com/package/font-awesome) Icons
 * [SASS](https://github.com/sass/sass) - style sheet.
 
-## Autores ✒️
+## Autors ✒️
 
-* **Job Coronado Duran** - *Trabajo Inicial* - [JobCoronado](https://github.com/JobCoronado)
+* **Job Coronado Duran** - *Project Owner* - [JobCoronado](https://github.com/JobCoronado)
 
 ---
-⌨️ con ❤️ por [JobCoronado](https://github.com/JobCoronado)😊
+⌨️ with ❤️ por [JobCoronado](https://github.com/JobCoronado)😊
